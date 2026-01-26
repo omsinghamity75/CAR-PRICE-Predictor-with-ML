@@ -18,3 +18,4 @@ car.shape
 
 car['name']=car['name'].str.split().str.slice(start=0,stop=3).str.join(' ')
 car=car.reset_index(drop=True)
+car
