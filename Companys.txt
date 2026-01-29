@@ -1,0 +1,4 @@
+array(['Hyundai', 'Mahindra', 'Ford', 'Maruti', 'Skoda', 'Audi', 'Toyota',
+       'Renault', 'Honda', 'Datsun', 'Mitsubishi', 'Tata', 'Volkswagen',
+       'Chevrolet', 'Mini', 'BMW', 'Nissan', 'Hindustan', 'Fiat', 'Force',
+       'Mercedes', 'Land', 'Jaguar', 'Jeep', 'Volvo'], dtype=object)
